@@ -17,6 +17,5 @@ The other output is the attendance time (in seconds) of each student.
 - Face_Recognition 
 - imutils
 
-
-[The output Video](https://drive.google.com/open?id=10mF79fxpQ1LF_vfiVpFA3PiBs9VSkQS5)  
-[This file should be placed next to the code.  ](https://drive.google.com/drive/folders/1PRmtOVVqvFcSQmvhwDMWaWm1C5oXhhKk?usp=sharing)  
+  
+[This file should be placed next to the code. ](https://drive.google.com/drive/folders/1PRmtOVVqvFcSQmvhwDMWaWm1C5oXhhKk?usp=sharing)  
