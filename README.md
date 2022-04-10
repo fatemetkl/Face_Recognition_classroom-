@@ -7,10 +7,10 @@ The other output is the attendance time (in seconds) of each student.
   
   
 ## Output  
-**Attendence duration**: {'HamedKalantari': 260, 'TohidAbedini': 119, 'AlirezaRezaei': 115, 'DanialKamali': 57,'AliSafarpoor': 117, 'ZahraBashir': 141, 'MahsaMeymari': 11}  
+**Attendence duration**: {'StudentID:1': 260, 'StudentID:2': 119, 'StudentID:3': 115, 'StudentID:4': 57,'StudentID:5': 117, 'StudentID:6': 141, 'StudentID:8': 11}  
   
 **Students who are present at the classroom**:
-['HamedKalantari', 'TohidAbedini', 'AlirezaRezaei', 'DanialKamali', 'AliSafarpoor', 'ZahraBashir', 'MahsaMeymari']
+['StudentID:1', 'StudentID:2', 'StudentID:3', 'StudentID:4', 'StudentID:5', 'StudentID:6', 'StudentID:8']
 
 - Python
 - OpenCV
